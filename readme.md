@@ -7,3 +7,4 @@ lorem
 opis
 
 zmiana
+1
