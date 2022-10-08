@@ -6,7 +6,7 @@ let title = true;
 const changeImage = () => {
   image = !image;
   title = !title;
-  header.style.backgroundImage = image ? "url(balloons.jpg)" : "url(bee.jpg)";
+  header.style.backgroundImage = image ? "url(balloons.jpg)" : "url(piesio.jpg)";
   h1.textContent = title ? "Siema" : "Mordo"
 }
 
